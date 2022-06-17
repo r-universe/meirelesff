@@ -1,0 +1,14 @@
+[
+  {
+    "package": "deflateBR",
+    "oncran": true
+  },
+  {
+    "package": "genderBR",
+    "oncran": true
+  },
+  {
+    "package": "siconvr",
+    "oncran": true
+  }
+]
