@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "deflateBR"]
 	path = deflateBR
 	url = https://github.com/meirelesff/deflatebr
-	shallow = true
-	registered = true
 [submodule "genderBR"]
 	path = genderBR
 	url = https://github.com/meirelesff/genderbr
-	shallow = true
-	registered = true
 [submodule "siconvr"]
 	path = siconvr
 	url = https://github.com/meirelesff/siconvr
-	shallow = true
-	registered = true
